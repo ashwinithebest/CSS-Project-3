@@ -21,6 +21,7 @@
   margin: 0px;
 }
 
+
 .navbar div {
   display: inline-block;
 }
@@ -37,6 +38,9 @@
   bottom: 15px;
   margin: 15px;
   font-size: 14px;
+  padding:5px;
+  /* width: 80px; */
+
 }
 
 .list-item:hover {
